@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @INDIGOFALCON
+- 👀 I’m interested in health data and Analytics
+- 🌱 I’m currently learning data analytics(Nanodegree) at Udacity
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me on Linkedln @ https://www.linkedin.com/in/adeola-adebanjo 
